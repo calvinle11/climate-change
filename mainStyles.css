@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+}
+
+a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover{
+    color: lightblue;
+}
+
+.logo img{
+    width: 100px;
+}
